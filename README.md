@@ -1,2 +1,3 @@
 # hype-dl
-Script for scraping music from the Hype Machine
+Python script for scraping music from the popular music blog aggregator Hype Machine (hypem.com)
+
